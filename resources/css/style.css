@@ -24,3 +24,17 @@ p {
 body {
   background-color: black;
 }
+
+.info1 {
+  font-style: Verdana;
+  font-size: 21px;
+  color: gray;
+}
+
+h2 {
+  font-style: Verdana;
+  font-weight: 300;
+  font-size: 42px;
+  color: white;
+  text-align: center;
+}
